@@ -1,5 +1,4 @@
-Node.js and Socket.io Tic Tac Toe
+Flutter-client for Tic Tac Toe
 ---
-This project is part of a tutorial on how to develop a simple real time tic tac toe using *Node.js*, *Express* and *Socket.io*.
-
-Check tutorial on medium: https://medium.com/@antoniomignano/node-js-socket-io-express-tic-tac-toe-10cff9108f7
+Node.js server from
+https://github.com/Xfox1/tic-tac-toe 
