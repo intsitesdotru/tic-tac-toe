@@ -113,7 +113,8 @@ class _GameScreenState extends State<GameScreen> {
             child: Opacity(
               opacity: myTurn ? 1.0 : 0.5,
               child: Container(
-                width: 600,child: GridView.count(
+                width: 600,
+                child: GridView.count(
                   primary: false,
                   padding: const EdgeInsets.all(20),
                   crossAxisSpacing: 10,
